@@ -38,13 +38,13 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='Fire Incidents Data' name='excel-direct.1cqrroj09vmgqm17bpz8q017mrpl'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/milithakrar/Desktop/Data_Science/Tablaue/Toronto Fire incedents/Fire Incidents Data.xlsm' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/milithakrar/Desktop/Data_Science/Tableau/Toronto_Fire_Incedents/Fire Incidents Data.xlsm' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
           <named-connection caption='toronto-fire-services-run-areas - 4326' name='ogrdirect.0oqmgw91uokwju17ni1b000f6zq6'>
-            <connection class='ogrdirect' directory='/Users/milithakrar/Desktop/Data_Science/Tablaue/Toronto Fire incedents' filename='toronto-fire-services-run-areas - 4326.geojson' password='' server='' tablename='' />
+            <connection class='ogrdirect' directory='/Users/milithakrar/Desktop/Data_Science/Tableau/Toronto_Fire_Incedents' filename='toronto-fire-services-run-areas - 4326.geojson' password='' server='' tablename='' />
           </named-connection>
           <named-connection caption='RunArea-StationName 1' name='textscan.0nkpwpx1azf5sf120f7nh1on7wgp'>
-            <connection class='textscan' directory='/Users/milithakrar/Desktop/Data_Science/Tablaue/Toronto Fire incedents' filename='RunArea-StationName 1.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/milithakrar/Desktop/Data_Science/Tableau/Toronto_Fire_Incedents' filename='RunArea-StationName 1.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1cqrroj09vmgqm17bpz8q017mrpl' name='Fire Incidents Data' table='[&apos;Fire Incidents Data$&apos;]' type='table'>
@@ -251,7 +251,7 @@
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
             <attributes>
-              <attribute datatype='integer' name='context'>1</attribute>
+              <attribute datatype='integer' name='context'>2</attribute>
               <attribute datatype='string' name='gridOrigin'>&quot;A1:AQ10001:no:A1:AQ2147483647:0&quot;</attribute>
               <attribute datatype='boolean' name='header'>true</attribute>
               <attribute datatype='integer' name='outcome'>2</attribute>
@@ -3791,8 +3791,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1550' minheight='1550' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='53' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98068' id='52' param='vert' type-v2='layout-flow' w='98892' x='554' y='966'>
+            <zone h='100000' id='55' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98068' id='54' param='vert' type-v2='layout-flow' w='98892' x='554' y='966'>
                 <zone forceUpdate='true' h='14372' id='7' type-v2='text' w='74030' x='277' y='0'>
                   <formatted-text>
                     <run bold='true' fontcolor='#000000' fontname='Tableau Semibold' fontsize='36'>Fire Incidents - City of Toronto</run>
@@ -4100,7 +4100,7 @@
         <viewpoint name='Summary -2 ' />
         <viewpoint name='Summary -3' />
       </viewpoints>
-      <active id='5' />
+      <active id='-1' />
       <simple-id uuid='{211EBECF-17D4-424F-8FBD-26C9F4FF16DF}' />
     </window>
   </windows>

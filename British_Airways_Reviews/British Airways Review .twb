@@ -52,7 +52,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='ba_reviews' name='textscan.0fr4rch0mp22mk16k66zb1tj87tp'>
-            <connection class='textscan' directory='/Users/milithakrar/Desktop/Data_Science/Tablaue/British Airways Reviews' filename='Countries.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/milithakrar/Desktop/Data_Science/Tableau/British_Airways_Reviews' filename='ba_reviews.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0fr4rch0mp22mk16k66zb1tj87tp' name='Countries.csv' table='[Countries#csv]' type='table'>
@@ -2405,8 +2405,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1450' minheight='1450' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='23' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97714' id='22' param='vert' type-v2='layout-flow' w='98666' x='667' y='1143'>
+            <zone h='100000' id='25' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97714' id='24' param='vert' type-v2='layout-flow' w='98666' x='667' y='1143'>
                 <zone forceUpdate='true' h='16286' id='3' type-v2='text' w='16667' x='0' y='-143'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#ffffff' fontsize='18'>British Airways Review</run>
@@ -2524,7 +2524,7 @@
       <simple-id uuid='{D98BC5DB-CA6E-4F30-9BE4-D4296E0D534D}' />
     </dashboard>
   </dashboards>
-  <windows source-height='30'>
+  <windows show-side-pane='false' source-height='30'>
     <window class='worksheet' name='Map'>
       <cards>
         <edge name='left'>
