@@ -6,6 +6,8 @@ This repository contains three Tableau projects focusing on different datasets a
 
 This project analyzes customer reviews for British Airways flights.
 
+![British Airways Dashboard](Images/British_Airways_Revie_Dashboard.png)
+
 ### Files:
 - `British Airways Review.twb`: Tableau workbook containing the analysis
 - `ba_reviews.csv`: Dataset with British Airways customer reviews
@@ -20,6 +22,8 @@ This project analyzes customer reviews for British Airways flights.
 
 This project examines house sales data in Washington state.
 
+![Washington House Sales Dashboard](Images/Washington_House_Sales_Dashboard.png)
+
 ### Files:
 - `Washington House Sales.twb`: Tableau workbook with the analysis
 - `HouseData.xlsx`: Dataset containing Washington house sales information
@@ -32,6 +36,8 @@ This project examines house sales data in Washington state.
 ## Toronto Fire Incidents
 
 This project visualizes fire incident data for the City of Toronto.
+
+![Toronto Fire Incidents Dashboard](Images/Toronto_Fire_Incedents_Dashboard.png)
 
 ### Files:
 - `City of Toronto - Fire Incidents.twb`: Tableau workbook with the analysis
