@@ -15,8 +15,7 @@ This project analyzes customer reviews for British Airways flights.
 
 ### Key Features:
 - Customer satisfaction analysis
-- Route performance visualization
-- Sentiment analysis of review comments
+- Customer ratings analysis
 
 ## Washington House Sales
 
