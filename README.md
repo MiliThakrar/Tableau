@@ -1,6 +1,9 @@
 # Tableau Projects
 
-This repository contains three Tableau projects focusing on different datasets and analyses:
+🔗 **View all dashboards on my Tableau Public profile:**  
+[public.tableau.com/profile/mili.ketan.thakrar/vizzes](https://public.tableau.com/app/profile/mili.ketan.thakrar/vizzes)
+
+This repository showcases three Tableau projects, each built on a different dataset and analytical focus:
 
 ## British Airways Reviews
 
